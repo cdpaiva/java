@@ -894,87 +894,81 @@
         "slug": "queen-attack",
         "name": "Queen Attack",
         "uuid": "5404109e-3ed9-4691-8eaf-af8b36024a44",
-        "practices": [],
-        "prerequisites": [],
-        "difficulty": 6,
-        "topics": [
-          "arrays",
-          "classes",
+        "practices": [
+          "classes"
+        ],
+        "prerequisites": [
           "conditionals-if",
-          "games",
-          "matrices"
-        ]
+          "arrays"
+        ],
+        "difficulty": 6
       },
       {
         "slug": "dominoes",
         "name": "Dominoes",
         "uuid": "8e3cb20e-623b-4b4d-8a91-d1a51c0911b5",
-        "practices": [],
-        "prerequisites": [],
-        "difficulty": 7,
-        "topics": [
-          "algorithms",
-          "exception_handling",
-          "games",
+        "practices": [
           "lists"
-        ]
+        ],
+        "prerequisites": [
+          "for-loops",
+          "classes"
+        ],
+        "difficulty": 7
       },
       {
         "slug": "go-counting",
         "name": "Go Counting",
         "uuid": "2e760ae2-fadd-4d31-9639-c4554e2826e9",
-        "practices": [],
-        "prerequisites": [],
-        "difficulty": 7,
-        "topics": [
-          "algorithms",
-          "conditionals-if",
-          "games",
-          "loops"
-        ]
+        "practices": [
+          "lists",
+          "constructors"
+        ],
+        "prerequisites": [
+          "for-loops",
+          "classes"
+        ],
+        "difficulty": 7
       },
       {
         "slug": "markdown",
         "name": "Markdown",
         "uuid": "cc18f2e5-4e36-47d6-aa60-8ca5ff54019a",
-        "practices": [],
-        "prerequisites": [],
-        "difficulty": 7,
-        "topics": [
-          "conditionals-if",
-          "pattern_matching",
-          "refactoring",
+        "practices": [
           "strings"
-        ]
+        ],
+        "prerequisites": [
+          "conditionals-if"
+        ],
+        "difficulty": 7
       },
       {
         "slug": "poker",
         "name": "Poker",
         "uuid": "57eeac00-741c-4843-907a-51f0ac5ea4cb",
-        "practices": [],
-        "prerequisites": [],
-        "difficulty": 7,
-        "topics": [
-          "games",
-          "parsing",
-          "sorting"
-        ]
+        "practices": [
+          "lists",
+          "constructors"
+        ],
+        "prerequisites": [
+          "for-loops",
+          "classes"
+        ],
+        "difficulty": 7
       },
       {
         "slug": "word-search",
         "name": "Word Search",
         "uuid": "b53bde52-cb5f-4d43-86ec-18aa509d62f9",
-        "practices": [],
-        "prerequisites": [],
-        "difficulty": 7,
-        "topics": [
-          "games",
-          "logic",
-          "matrices",
-          "pattern_matching",
-          "searching",
-          "strings"
-        ]
+        "practices": [
+          "arrays",
+          "lists"
+        ],
+        "prerequisites": [
+          "strings",
+          "classes"
+        ],
+        "difficulty": 7
       },
       {
         "slug": "perfect-numbers",
